@@ -2,6 +2,12 @@
 
 Welcome to **SmartChat-AI**, a web app designed to streamline dataset analysis and visualization using AI. The app integrates advanced natural language processing and machine learning techniques, allowing users to interact with their data using simple commands and generate insights in real-time. We chose the name **SmartChat-AI** to emphasize the app's intelligent chat-driven interface, which makes data analysis as easy as having a conversation! 💬
 
+## 🎥 Demo
+
+Check out the demo of **SmartChat-AI** in action:
+https://github.com/user-attachments/assets/1879314b-4d31-4b7a-8073-4210e29c774f
+
+
 ## 🗂️ Project Structure
 
 Here’s a quick overview of the files in this repository:
@@ -23,10 +29,6 @@ The following technologies and libraries power **SmartChat-AI**:
 
 ## 🚀 Features
 
-https://github.com/user-attachments/assets/647036cf-2618-4c06-bb8a-d8cef45152cd
-
-
-
 1. **Visualize Data**: Generate charts like boxplots, histograms, and more. 📊
     - Example: `Plot a boxplot for the 'age' column.`
   
@@ -38,12 +40,6 @@ https://github.com/user-attachments/assets/647036cf-2618-4c06-bb8a-d8cef45152cd
 
 4. **Chatbot Integration**: Use the app as a conversational assistant for dataset analysis. 🤖
     - Example: `Hey, how are you?`
-
-## 🎥 Demo
-
-Check out the demo of **SmartChat-AI** in action:
-
-
 
 
 ## 🚀 How to Run
