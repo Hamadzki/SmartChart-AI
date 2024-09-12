@@ -5,7 +5,9 @@ Welcome to **SmartChat-AI**, a web app designed to streamline dataset analysis a
 ## 🎥 Demo
 
 Check out the demo of **SmartChat-AI** in action:
-https://github.com/user-attachments/assets/1879314b-4d31-4b7a-8073-4210e29c774f
+
+https://github.com/user-attachments/assets/343393f6-3c19-4644-9707-bdf50bf74d4f
+
 
 
 ## 🗂️ Project Structure
