@@ -23,6 +23,10 @@ The following technologies and libraries power **SmartChat-AI**:
 
 ## 🚀 Features
 
+https://github.com/user-attachments/assets/647036cf-2618-4c06-bb8a-d8cef45152cd
+
+
+
 1. **Visualize Data**: Generate charts like boxplots, histograms, and more. 📊
     - Example: `Plot a boxplot for the 'age' column.`
   
@@ -38,7 +42,7 @@ The following technologies and libraries power **SmartChat-AI**:
 ## 🎥 Demo
 
 Check out the demo of **SmartChat-AI** in action:
-[![SmartChat-AI Demo](https://editor.gemoo.com/share/lg0ZpI7kb3QY1YVnD)]
+
 
 
 
