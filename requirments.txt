@@ -1,0 +1,8 @@
+pandas==1.5.3
+google.generativeai==0.7.2
+pandasai==1.5.17
+plotly-express==0.4.1
+streamlit==1.38.0
+grpcio==1.60.1
+watchdog==5.0.2
+langchain_community-0.2.16
